@@ -1,0 +1,22 @@
+h1 {
+    background: red;
+}
+
+.paragraph_1 {
+    background: blue;
+    color: white;
+    font-size: 32pt;
+}
+
+.paragraph_2 {
+    border: 10px solid yellow;
+    font-size: 32pt;
+    border-radius: 10px;
+    mergim-bottom: 100px;
+    padding-left: 20px;
+}
+
+.paragraph_3 {
+    font-weight: bold;
+    font-family: Arial;
+}
